@@ -1,0 +1,14 @@
+{
+  "name": "js-loops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "loopy.js",
+  "scripts": {
+    "test": "jest loopy.test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}
